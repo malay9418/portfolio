@@ -1,0 +1,15 @@
+.home-body {
+  padding: 20px;
+}
+h1 {
+  font-family: sofia-pro,sans-serif;
+  font-size: 50px;
+  text-align: center;
+  color: tomato;
+}
+h2 {
+  font-size: 30px;
+  font-family: sofia-pro,sans-serif;
+  text-align: center;
+  color: blue;
+}
